@@ -1,0 +1,10 @@
+body {
+    background: rgb(230, 227, 227);
+}
+
+.mycard:hover {
+    transform: scale(1.1);
+}
+.space{
+    padding-top: 10px;
+}
